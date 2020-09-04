@@ -1,4 +1,4 @@
-### Hi 👋
+### Hello 👋
 I am Jamilu Salisu, a Software Engineer. I'm passionate about emerging technologies, and most of my experience lies in full-stack web development. 
 In my spare time, you can find me Reading, Watching Animation or teaching how to code.
 
