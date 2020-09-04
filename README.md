@@ -5,7 +5,7 @@ In my spare time, you can find me Reading, Watching Animation or teaching how to
 - 🌱 I’m currently learning anything Mobile (flutter) and Web development related.
 - 💬 Ask me about HTML5, CSS, Bootstrap, PHP, SQL, Javascript, Java, Azure and anything else that makes the web tick!
 - 😄 Pronouns are He/Him
-- 📫 How to reach me: ### jamilusalism (on social networks FB, TW, TG and TM)
+- 📫 How to reach me: (on social networks FB, TW, TG and TM) jamilusalism
 
 <!--
 - 🔭 I’m currently working on ...
