@@ -1,5 +1,5 @@
 ### Hello 👋
-I am Jamilu Salisu, a Software Engineer. I'm passionate about emerging technologies, and most of my experience lies in full-stack web development. 
+I am Jamilu Salisu Mohammed, a Software Engineer. I'm passionate about emerging technologies, and most of my experience lies in full-stack web development. 
 In my spare time, you can find me Reading, Watching Animation or teaching how to code.
 
 - 🌱 I’m currently learning anything Mobile (flutter) and Web development related.
