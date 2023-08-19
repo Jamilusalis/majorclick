@@ -1,4 +1,7 @@
 # Hello, I'm Jamilu Salisu! 👋
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=mjsalisu&label=Profile%20views&color=0e75b6&style=flat" alt="MJ Salisu" /> 
+</p>
 
 Welcome to my GitHub profile.
 
@@ -30,7 +33,3 @@ Feel free to explore my repositories for more!
 You can reach me at [email](mailto:jamilusalis@gmail.com) or [WhatsApp](https://wa.me/2348028752833).
 
 Let's connect and collaborate on exciting tech projects! 😄
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=mjsalisu&label=Profile%20views&color=0e75b6&style=flat" alt="MJ Salisu" /> 
-</p>
