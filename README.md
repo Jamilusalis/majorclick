@@ -27,7 +27,7 @@ Feel free to explore my repositories for more!
 
 ## Contact
 
-You can reach me at [jamilusalis@gmail.com](mailto:jamilusalis@gmail.com) or [+2348028752833](https://wa.me/2348028752833).
+You can reach me at [email](mailto:jamilusalis@gmail.com) or [WhatsApp](https://wa.me/2348028752833).
 
 Let's connect and collaborate on exciting tech projects! 😄
 
